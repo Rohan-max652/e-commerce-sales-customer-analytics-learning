@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,cost_price,selling_price
+1,Nova Cycling Helmet,Sports,Nova,5152.65,6866.67
+2,FitLife Coffee,Grocery,FitLife,976.26,1235.1
+3,StyleHub History Book,Books,StyleHub,650.15,1172.96
+4,Elite Jacket,Fashion,Elite,3562.27,5514.72
+5,Prime Cricket Bat,Sports,Prime,5789.57,7069.87
+6,SmartBuy Yoga Mat,Sports,SmartBuy,5899.6,7265.14
+7,SmartBuy Coffee Maker,Home & Kitchen,SmartBuy,5420.3,9271.74
+8,DailyChoice Programming Book,Books,DailyChoice,841.9,1178.29
+9,Elite Dining Set,Home & Kitchen,Elite,9095.69,14441.74
+10,Trendify Trimmer,Beauty & Personal Care,Trendify,524.42,628.85
+11,Trendify Sandals,Fashion,Trendify,3340.3,4697.68
+12,HomePlus Finance Book,Books,HomePlus,1991.64,2466.01
+13,FreshMart Coffee,Grocery,FreshMart,1759.16,2183.87
+14,UrbanKart Exam Preparation Book,Books,UrbanKart,980.6,1489.96
+15,StyleHub Snacks,Grocery,StyleHub,1161.94,1635.14
+16,Nova Cycling Helmet,Sports,Nova,2728.25,3445.46
+17,TechPro Smartwatch,Electronics,TechPro,37749.43,62735.49
+18,StyleHub Face Serum,Beauty & Personal Care,StyleHub,2454.63,3947.58
+19,FreshMart Coffee Maker,Home & Kitchen,FreshMart,8694.26,13679.84
+20,SmartBuy Power Bank,Electronics,SmartBuy,31714.82,45124.14
+21,HomePlus Perfume,Beauty & Personal Care,HomePlus,871.41,1517.7
+22,DailyChoice Football,Sports,DailyChoice,3496.45,5184.18
+23,FitLife Curtains,Home & Kitchen,FitLife,10920.72,14848.83
+24,SmartBuy Football,Sports,SmartBuy,1365.44,2104.76
+25,HomePlus Yoga Mat,Sports,HomePlus,3035.51,4243.23
+26,Elite Sports Bag,Sports,Elite,6938.23,9062.08
+27,TechPro Smartwatch,Electronics,TechPro,14056.45,21340.88
+28,HomePlus Face Wash,Beauty & Personal Care,HomePlus,1777.91,2363.18
+29,StyleHub Smartwatch,Electronics,StyleHub,34117.92,41812.82
+30,Prime Bedsheet,Home & Kitchen,Prime,5684.99,7247.03
+31,SmartBuy Business Book,Books,SmartBuy,210.6,358.97
+32,DailyChoice Coffee Maker,Home & Kitchen,DailyChoice,2147.02,3169.86
+33,Trendify Body Lotion,Beauty & Personal Care,Trendify,225.34,308.61
+34,Trendify Badminton Racket,Sports,Trendify,1549.93,1936.76
+35,Trendify Biscuits,Grocery,Trendify,392.87,493.55
+36,StyleHub Mixer Grinder,Home & Kitchen,StyleHub,610.65,728.7
+37,UrbanKart Face Serum,Beauty & Personal Care,UrbanKart,1344.81,1914.79
+38,UrbanKart Sports Bag,Sports,UrbanKart,4267.32,5851.36
+39,SmartBuy Jeans,Fashion,SmartBuy,2389.35,3936.99
+40,HomePlus Dry Fruits,Grocery,HomePlus,977.36,1709.51
+41,HomePlus Finance Book,Books,HomePlus,1182.56,1895.14
+42,HomePlus Dining Set,Home & Kitchen,HomePlus,1832.88,2551.97
+43,HomePlus Tea,Grocery,HomePlus,1643.67,2690.2
+44,SmartBuy Trimmer,Beauty & Personal Care,SmartBuy,1018.43,1571.57
+45,TechPro History Book,Books,TechPro,1242.69,1565.14
+46,UrbanKart Novel,Books,UrbanKart,862.47,1106.25
+47,HomePlus Football,Sports,HomePlus,5812.93,8425.83
+48,Elite Cycling Helmet,Sports,Elite,2152.33,3108.95
+49,SmartBuy Jacket,Fashion,SmartBuy,3070.3,3624.76
+50,StyleHub Perfume,Beauty & Personal Care,StyleHub,2441.48,4078.47
+51,Elite Mouse,Electronics,Elite,20866.33,25811.81
+52,Prime Self Help Book,Books,Prime,143.85,196.89
+53,DailyChoice Bluetooth Speaker,Electronics,DailyChoice,46184.0,72622.3
+54,Trendify Novel,Books,Trendify,1481.29,2210.63
+55,Elite Finance Book,Books,Elite,964.79,1215.66
+56,StyleHub History Book,Books,StyleHub,667.56,1189.65
+57,TechPro Jacket,Fashion,TechPro,491.77,623.79
+58,Prime Biography,Books,Prime,195.87,343.88
+59,TechPro Hair Dryer,Beauty & Personal Care,TechPro,250.04,369.79
+60,UrbanKart Curtains,Home & Kitchen,UrbanKart,886.18,1073.72
+61,TechPro Dry Fruits,Grocery,TechPro,501.98,776.5
+62,SmartBuy History Book,Books,SmartBuy,944.36,1220.91
+63,UrbanKart Exam Preparation Book,Books,UrbanKart,1567.46,1932.69
+64,DailyChoice Football,Sports,DailyChoice,4594.49,6676.92
+65,StyleHub Tea,Grocery,StyleHub,1696.04,2898.25
+66,UrbanKart Moisturizer,Beauty & Personal Care,UrbanKart,494.31,667.03
+67,FitLife Self Help Book,Books,FitLife,196.62,315.77
+68,Nova Backpack,Fashion,Nova,438.05,538.75
+69,FreshMart Rice,Grocery,FreshMart,1448.36,2487.23
+70,Elite Dining Set,Home & Kitchen,Elite,483.24,723.36
+71,Prime Headphones,Electronics,Prime,38798.53,58218.76
+72,StyleHub Bluetooth Speaker,Electronics,StyleHub,3268.79,4968.56
+73,Elite Children Book,Books,Elite,1860.7,2423.89
+74,SmartBuy Yoga Mat,Sports,SmartBuy,4264.29,7241.14
+75,Nova Saree,Fashion,Nova,4260.92,5053.78
+76,HomePlus Finance Book,Books,HomePlus,304.93,400.64
+77,SmartBuy Cereals,Grocery,SmartBuy,2348.32,2860.86
+78,UrbanKart Bluetooth Speaker,Electronics,UrbanKart,64821.11,77086.96
+79,DailyChoice Jacket,Fashion,DailyChoice,239.97,339.25
+80,FitLife Sports Bag,Sports,FitLife,4733.45,5579.55
+81,FitLife Dining Set,Home & Kitchen,FitLife,9005.71,13719.21
+82,UrbanKart Headphones,Electronics,UrbanKart,17854.64,26619.89
+83,FitLife Skipping Rope,Sports,FitLife,7676.02,9410.24
+84,Trendify Headphones,Electronics,Trendify,5527.06,6918.01
+85,UrbanKart Smartwatch,Electronics,UrbanKart,49964.18,77180.06
+86,Nova Cookware Set,Home & Kitchen,Nova,3092.25,5188.33
+87,UrbanKart Self Help Book,Books,UrbanKart,1328.92,2047.0
+88,SmartBuy Science Book,Books,SmartBuy,948.8,1218.97
+89,FitLife Running Shoes,Sports,FitLife,5096.72,6666.79
+90,Nova Biscuits,Grocery,Nova,692.26,975.35
+91,FreshMart Kurta,Fashion,FreshMart,1425.36,2093.98
+92,Nova Trimmer,Beauty & Personal Care,Nova,1562.76,2361.15
+93,SmartBuy History Book,Books,SmartBuy,1236.33,2029.76
+94,HomePlus Skipping Rope,Sports,HomePlus,6724.5,8264.34
+95,Nova Shoes,Fashion,Nova,3717.52,5891.91
+96,Nova Shoes,Fashion,Nova,351.51,547.47
+97,TechPro Children Book,Books,TechPro,1206.75,1607.82
+98,SmartBuy Lipstick,Beauty & Personal Care,SmartBuy,243.19,432.03
+99,FitLife Shampoo,Beauty & Personal Care,FitLife,2269.15,3155.61
+100,DailyChoice Sports Bag,Sports,DailyChoice,1859.37,3352.2
+101,Elite Biscuits,Grocery,Elite,672.35,1060.23
+102,UrbanKart Watch,Fashion,UrbanKart,2725.93,4436.11
+103,FreshMart Lipstick,Beauty & Personal Care,FreshMart,418.47,760.5
+104,Elite Atta,Grocery,Elite,410.33,513.04
+105,Prime T-Shirt,Fashion,Prime,5074.84,6523.88
+106,DailyChoice Yoga Mat,Sports,DailyChoice,6205.81,7859.87
+107,Elite Shoes,Fashion,Elite,2127.38,2813.49
+108,DailyChoice Shampoo,Beauty & Personal Care,DailyChoice,3159.15,3768.23
+109,UrbanKart Tablet,Electronics,UrbanKart,38948.31,67363.16
+110,TechPro Saree,Fashion,TechPro,4301.65,6486.6
+111,Nova Smartwatch,Electronics,Nova,42301.56,51903.26
+112,Nova Cereals,Grocery,Nova,856.73,1190.77
+113,DailyChoice Rice,Grocery,DailyChoice,1237.81,2164.87
+114,FreshMart Backpack,Fashion,FreshMart,4967.04,6254.7
+115,TechPro Skipping Rope,Sports,TechPro,7718.24,10802.88
+116,FreshMart Spices,Grocery,FreshMart,449.26,547.52
+117,HomePlus Saree,Fashion,HomePlus,4396.97,6861.71
+118,SmartBuy Curtains,Home & Kitchen,SmartBuy,1023.59,1246.8
+119,StyleHub Children Book,Books,StyleHub,1243.72,2012.82
+120,Elite Moisturizer,Beauty & Personal Care,Elite,1830.3,2875.16
+121,TechPro Handbag,Fashion,TechPro,1189.58,1796.32
+122,Trendify Mouse,Electronics,Trendify,11080.89,20096.99
+123,Nova Moisturizer,Beauty & Personal Care,Nova,346.91,626.54
+124,UrbanKart Keyboard,Electronics,UrbanKart,13001.32,17246.95
+125,Prime Coffee,Grocery,Prime,1539.17,2403.51
+126,FitLife Smartwatch,Electronics,FitLife,28463.78,36672.12
+127,Trendify Tablet,Electronics,Trendify,11847.3,21406.32
+128,FreshMart Self Help Book,Books,FreshMart,748.42,1094.78
+129,FitLife Headphones,Electronics,FitLife,45071.3,55803.96
+130,StyleHub Watch,Fashion,StyleHub,4918.79,7115.7
+131,StyleHub Cricket Bat,Sports,StyleHub,3470.71,4997.11
+132,SmartBuy Dumbbells,Sports,SmartBuy,7467.64,11687.16
+133,Trendify Lipstick,Beauty & Personal Care,Trendify,479.69,860.95
+134,SmartBuy Skipping Rope,Sports,SmartBuy,3861.93,6731.54
+135,UrbanKart Hair Dryer,Beauty & Personal Care,UrbanKart,2444.46,3669.64
+136,Nova Laptop,Electronics,Nova,26650.09,32300.16
+137,FreshMart Face Serum,Beauty & Personal Care,FreshMart,3488.55,4201.83
+138,Elite Coffee Maker,Home & Kitchen,Elite,9254.61,13095.36
+139,StyleHub Bluetooth Speaker,Electronics,StyleHub,32160.86,40795.45
+140,UrbanKart Cookware Set,Home & Kitchen,UrbanKart,3635.83,5540.46
+141,Prime Air Fryer,Home & Kitchen,Prime,11968.6,14797.01
+142,SmartBuy Tea,Grocery,SmartBuy,2084.76,2578.53
+143,UrbanKart Football,Sports,UrbanKart,7471.44,9976.93
+144,FreshMart Dumbbells,Sports,FreshMart,2168.01,3811.31
+145,FreshMart Business Book,Books,FreshMart,946.71,1335.0
+146,FreshMart Biscuits,Grocery,FreshMart,410.81,658.63
+147,DailyChoice Storage Box,Home & Kitchen,DailyChoice,9519.27,12111.18
+148,Trendify Novel,Books,Trendify,1279.42,2167.61
+149,Elite Rice,Grocery,Elite,479.43,708.0
+150,TechPro Saree,Fashion,TechPro,4261.45,6042.53
+151,Trendify Lamp,Home & Kitchen,Trendify,7623.75,12232.56
+152,Trendify Kurta,Fashion,Trendify,4408.8,6598.02
+153,Elite Hair Dryer,Beauty & Personal Care,Elite,3188.09,4863.35
+154,Prime Skipping Rope,Sports,Prime,3957.31,5153.18
+155,SmartBuy Jacket,Fashion,SmartBuy,4336.69,7846.3
+156,FitLife Biography,Books,FitLife,295.53,350.51
+157,Prime Badminton Racket,Sports,Prime,7501.38,9168.12
+158,HomePlus Tennis Ball,Sports,HomePlus,4234.86,6479.93
+159,SmartBuy Jeans,Fashion,SmartBuy,1210.61,1783.6
+160,Elite Skipping Rope,Sports,Elite,7548.61,9929.97
+161,SmartBuy Coffee,Grocery,SmartBuy,245.01,391.49
+162,TechPro Face Wash,Beauty & Personal Care,TechPro,2443.73,4181.46
+163,Prime Cricket Bat,Sports,Prime,4884.0,5836.95
+164,HomePlus Monitor,Electronics,HomePlus,55101.33,66196.79
+165,HomePlus Skipping Rope,Sports,HomePlus,1061.5,1471.46
+166,StyleHub Programming Book,Books,StyleHub,125.86,165.59
+167,Elite Biscuits,Grocery,Elite,1398.82,1831.66
+168,Nova Biography,Books,Nova,1252.0,2165.87
+169,Trendify Self Help Book,Books,Trendify,1116.95,1958.88
+170,FitLife Bluetooth Speaker,Electronics,FitLife,42405.83,67405.95
+171,Elite Jeans,Fashion,Elite,2521.8,3020.37
+172,SmartBuy Body Lotion,Beauty & Personal Care,SmartBuy,926.94,1225.15
+173,StyleHub Dining Set,Home & Kitchen,StyleHub,6444.26,8006.95
+174,Prime Rice,Grocery,Prime,741.49,1346.39
+175,UrbanKart Sandals,Fashion,UrbanKart,3351.14,5127.19
+176,StyleHub Badminton Racket,Sports,StyleHub,7647.87,11699.44
+177,StyleHub Cooking Oil,Grocery,StyleHub,1114.74,1618.96
+178,StyleHub Sandals,Fashion,StyleHub,3469.33,5351.09
+179,FreshMart Smartwatch,Electronics,FreshMart,28224.37,36741.0
+180,TechPro Dry Fruits,Grocery,TechPro,1083.65,1785.55
+181,HomePlus Novel,Books,HomePlus,1291.58,2233.84
+182,FreshMart Cereals,Grocery,FreshMart,1365.33,2382.89
+183,StyleHub Tennis Ball,Sports,StyleHub,3414.54,5003.81
+184,UrbanKart Tablet,Electronics,UrbanKart,46053.56,71951.19
+185,FitLife Body Lotion,Beauty & Personal Care,FitLife,2486.84,4085.44
+186,DailyChoice Water Bottle,Home & Kitchen,DailyChoice,9859.28,13697.51
+187,TechPro Biscuits,Grocery,TechPro,1450.5,1771.68
+188,SmartBuy Smartwatch,Electronics,SmartBuy,27215.68,36125.05
+189,UrbanKart Yoga Mat,Sports,UrbanKart,6614.81,11748.92
+190,Nova Cooking Oil,Grocery,Nova,1495.75,2018.66
+191,Elite Sports Bag,Sports,Elite,2029.45,2566.13
+192,SmartBuy Tea,Grocery,SmartBuy,1955.28,2767.37
+193,Elite Self Help Book,Books,Elite,123.03,196.17
+194,FitLife Children Book,Books,FitLife,416.74,654.76
+195,FreshMart Cycling Helmet,Sports,FreshMart,3764.59,4786.57
+196,Prime Badminton Racket,Sports,Prime,3944.54,5535.94
+197,StyleHub Smartphone,Electronics,StyleHub,35746.74,45596.63
+198,Trendify Coffee Maker,Home & Kitchen,Trendify,9771.01,13402.39
+199,Prime History Book,Books,Prime,910.14,1281.82
+200,Elite Snacks,Grocery,Elite,1904.31,2350.99
+201,Prime Lamp,Home & Kitchen,Prime,7384.06,9574.85
+202,FreshMart Moisturizer,Beauty & Personal Care,FreshMart,353.64,530.59
+203,SmartBuy Monitor,Electronics,SmartBuy,28416.96,47030.08
+204,Trendify Running Shoes,Sports,Trendify,696.41,1052.9
+205,SmartBuy Dining Set,Home & Kitchen,SmartBuy,3296.81,4030.64
+206,Trendify Monitor,Electronics,Trendify,38417.42,51605.35
+207,FitLife Tea,Grocery,FitLife,55.26,69.35
+208,FitLife Handbag,Fashion,FitLife,2894.6,4295.65
+209,Prime Bluetooth Speaker,Electronics,Prime,17777.28,21785.39
+210,StyleHub Lamp,Home & Kitchen,StyleHub,7811.15,12698.64
+211,Nova Coffee Maker,Home & Kitchen,Nova,11449.98,14414.97
+212,FreshMart History Book,Books,FreshMart,291.09,479.9
+213,Trendify Sunscreen,Beauty & Personal Care,Trendify,2441.78,3027.37
+214,Nova Novel,Books,Nova,993.79,1432.84
+215,Nova Handbag,Fashion,Nova,1349.29,1872.95
+216,StyleHub Smartwatch,Electronics,StyleHub,2937.94,3508.22
+217,StyleHub Laptop,Electronics,StyleHub,51533.04,64106.07
+218,TechPro Bedsheet,Home & Kitchen,TechPro,5601.65,7247.86
+219,UrbanKart T-Shirt,Fashion,UrbanKart,1368.67,1661.04
+220,StyleHub Lamp,Home & Kitchen,StyleHub,4817.68,7772.12
+221,Prime Sandals,Fashion,Prime,3578.3,5613.63
+222,Trendify Lipstick,Beauty & Personal Care,Trendify,2230.88,4013.74
+223,Trendify Watch,Fashion,Trendify,2116.6,3025.37
+224,DailyChoice Power Bank,Electronics,DailyChoice,5860.5,10307.12
+225,FreshMart Skipping Rope,Sports,FreshMart,1911.14,2569.92
+226,UrbanKart Power Bank,Electronics,UrbanKart,27283.19,41484.12
+227,UrbanKart T-Shirt,Fashion,UrbanKart,646.94,826.27
+228,DailyChoice Monitor,Electronics,DailyChoice,2678.7,3159.38
+229,HomePlus Novel,Books,HomePlus,1515.82,1825.02
+230,FitLife Football,Sports,FitLife,1220.88,1444.07
+231,TechPro Mixer Grinder,Home & Kitchen,TechPro,5440.4,6587.19
+232,Nova Skipping Rope,Sports,Nova,5264.91,7859.21
+233,FitLife T-Shirt,Fashion,FitLife,1541.11,1827.92
+234,Elite Cricket Bat,Sports,Elite,3319.89,4522.68
+235,Elite Water Bottle,Home & Kitchen,Elite,7447.8,12312.36
+236,FreshMart Cooking Oil,Grocery,FreshMart,2005.25,2808.1
+237,FitLife Rice,Grocery,FitLife,1947.8,2592.94
+238,FitLife Keyboard,Electronics,FitLife,48252.76,73196.37
+239,Trendify T-Shirt,Fashion,Trendify,2275.54,4128.78
+240,SmartBuy Face Wash,Beauty & Personal Care,SmartBuy,1878.58,2388.5
+241,UrbanKart Finance Book,Books,UrbanKart,1556.09,2305.16
+242,TechPro Sunscreen,Beauty & Personal Care,TechPro,1514.13,2279.1
+243,FreshMart Headphones,Electronics,FreshMart,21750.44,25821.31
+244,HomePlus Snacks,Grocery,HomePlus,819.6,1145.71
+245,FreshMart Power Bank,Electronics,FreshMart,46571.11,55442.92
+246,Prime Air Fryer,Home & Kitchen,Prime,5843.64,10428.68
+247,StyleHub Dry Fruits,Grocery,StyleHub,322.94,404.42
+248,DailyChoice Cooking Oil,Grocery,DailyChoice,561.9,911.38
+249,SmartBuy Skipping Rope,Sports,SmartBuy,7042.24,9604.13
+250,FreshMart Biscuits,Grocery,FreshMart,1870.54,2579.94
+251,SmartBuy Trimmer,Beauty & Personal Care,SmartBuy,2310.34,3746.44
+252,Elite Skipping Rope,Sports,Elite,5660.34,8406.21
+253,FitLife Skipping Rope,Sports,FitLife,7621.42,9599.09
+254,StyleHub Biscuits,Grocery,StyleHub,843.66,1223.34
+255,TechPro Power Bank,Electronics,TechPro,1577.79,1948.31
+256,FreshMart Snacks,Grocery,FreshMart,1093.91,1552.33
+257,Trendify Novel,Books,Trendify,1397.37,2428.75
+258,Nova Coffee Maker,Home & Kitchen,Nova,8292.94,11430.32
+259,FreshMart Cricket Bat,Sports,FreshMart,4635.04,5927.78
+260,DailyChoice Bluetooth Speaker,Electronics,DailyChoice,19526.85,30256.35
+261,Prime Handbag,Fashion,Prime,2366.84,3646.53
+262,HomePlus Sandals,Fashion,HomePlus,1855.42,2954.7
+263,Trendify Saree,Fashion,Trendify,428.15,721.57
+264,SmartBuy Football,Sports,SmartBuy,2004.14,3065.9
+265,Elite Sports Bag,Sports,Elite,4608.59,8122.8
+266,Trendify Children Book,Books,Trendify,947.09,1551.54
+267,UrbanKart Bedsheet,Home & Kitchen,UrbanKart,7021.61,8367.03
+268,StyleHub Programming Book,Books,StyleHub,103.51,158.8
+269,TechPro Air Fryer,Home & Kitchen,TechPro,4854.8,5740.1
+270,TechPro Tennis Ball,Sports,TechPro,3267.59,4314.04
+271,SmartBuy Programming Book,Books,SmartBuy,379.32,689.17
+272,FitLife Monitor,Electronics,FitLife,47540.0,66393.59
+273,Elite Business Book,Books,Elite,1270.62,1760.1
+274,UrbanKart Power Bank,Electronics,UrbanKart,60915.97,77322.76
+275,SmartBuy Body Lotion,Beauty & Personal Care,SmartBuy,2832.98,4317.86
+276,Nova Hair Dryer,Beauty & Personal Care,Nova,3188.22,4716.14
+277,FreshMart Children Book,Books,FreshMart,1473.44,2111.51
+278,HomePlus Body Lotion,Beauty & Personal Care,HomePlus,966.68,1735.3
+279,Elite Skipping Rope,Sports,Elite,5666.27,8272.87
+280,Trendify Trimmer,Beauty & Personal Care,Trendify,1802.89,2535.65
+281,StyleHub Watch,Fashion,StyleHub,3306.42,5273.58
+282,Nova Mixer Grinder,Home & Kitchen,Nova,5706.67,10190.32
+283,Elite Sunscreen,Beauty & Personal Care,Elite,3026.19,4873.2
+284,DailyChoice Novel,Books,DailyChoice,680.46,926.31
+285,Nova Jeans,Fashion,Nova,4893.57,6886.06
+286,SmartBuy Perfume,Beauty & Personal Care,SmartBuy,202.12,342.95
+287,FitLife Running Shoes,Sports,FitLife,4405.76,7452.34
+288,TechPro Headphones,Electronics,TechPro,17161.75,20862.38
+289,Nova Dumbbells,Sports,Nova,5432.5,7411.01
+290,Elite Coffee Maker,Home & Kitchen,Elite,9049.08,12987.93
+291,Elite Bedsheet,Home & Kitchen,Elite,8207.75,10991.73
+292,Trendify Curtains,Home & Kitchen,Trendify,4506.43,7351.47
+293,Nova Power Bank,Electronics,Nova,11353.84,18889.39
+294,Trendify Moisturizer,Beauty & Personal Care,Trendify,277.73,391.44
+295,UrbanKart Novel,Books,UrbanKart,701.98,1251.39
+296,TechPro Jeans,Fashion,TechPro,4352.91,7557.58
+297,UrbanKart Cycling Helmet,Sports,UrbanKart,3797.92,6848.49
+298,FitLife Finance Book,Books,FitLife,60.02,107.97
+299,FitLife Lamp,Home & Kitchen,FitLife,8800.88,10851.79
+300,Elite Self Help Book,Books,Elite,1450.57,2404.99
+301,TechPro Sports Bag,Sports,TechPro,9105.35,11219.85
+302,FitLife Lipstick,Beauty & Personal Care,FitLife,1119.4,1813.73
+303,HomePlus Science Book,Books,HomePlus,753.4,1119.05
+304,Elite Lamp,Home & Kitchen,Elite,6198.95,9857.46
+305,HomePlus Body Lotion,Beauty & Personal Care,HomePlus,2961.6,3501.72
+306,Prime Coffee Maker,Home & Kitchen,Prime,288.13,375.6
+307,Nova Coffee Maker,Home & Kitchen,Nova,4222.3,7066.83
+308,Nova Hair Dryer,Beauty & Personal Care,Nova,3608.29,4276.64
+309,DailyChoice Monitor,Electronics,DailyChoice,24202.21,38031.13
+310,Trendify History Book,Books,Trendify,558.25,761.62
+311,TechPro Moisturizer,Beauty & Personal Care,TechPro,1385.96,2235.13
+312,DailyChoice Dry Fruits,Grocery,DailyChoice,588.58,881.85
+313,Elite Tennis Ball,Sports,Elite,7882.53,9692.62
+314,Elite Lipstick,Beauty & Personal Care,Elite,768.31,977.17
+315,Trendify Watch,Fashion,Trendify,1028.42,1721.6
+316,TechPro Trimmer,Beauty & Personal Care,TechPro,391.92,502.96
+317,TechPro Science Book,Books,TechPro,659.52,890.18
+318,StyleHub Yoga Mat,Sports,StyleHub,3858.82,4650.81
+319,UrbanKart Tea,Grocery,UrbanKart,2397.07,2843.31
+320,SmartBuy Cereals,Grocery,SmartBuy,715.38,1026.89
+321,HomePlus Keyboard,Electronics,HomePlus,59960.1,77750.08
+322,StyleHub Watch,Fashion,StyleHub,880.81,1131.54
+323,Nova Finance Book,Books,Nova,566.33,819.37
+324,Trendify Cricket Bat,Sports,Trendify,6694.31,11410.75
+325,UrbanKart Jacket,Fashion,UrbanKart,3355.85,5539.99
+326,StyleHub Sports Bag,Sports,StyleHub,3405.25,4751.64
+327,HomePlus Tennis Ball,Sports,HomePlus,5887.9,9706.84
+328,Trendify Bluetooth Speaker,Electronics,Trendify,5033.35,6597.42
+329,HomePlus Finance Book,Books,HomePlus,1039.07,1348.93
+330,Trendify Perfume,Beauty & Personal Care,Trendify,2296.32,3983.04
+331,FreshMart Cooking Oil,Grocery,FreshMart,2262.96,2960.79
+332,StyleHub Finance Book,Books,StyleHub,1509.73,1954.77
+333,SmartBuy Cereals,Grocery,SmartBuy,1300.22,1570.42
+334,Elite Moisturizer,Beauty & Personal Care,Elite,3308.91,4198.76
+335,StyleHub Monitor,Electronics,StyleHub,59773.75,77563.92
+336,StyleHub Dumbbells,Sports,StyleHub,4692.22,6414.77
+337,FitLife Hair Dryer,Beauty & Personal Care,FitLife,3086.77,4396.07
+338,Prime Yoga Mat,Sports,Prime,7875.78,10652.62
+339,Prime Smartphone,Electronics,Prime,40561.01,66889.57
+340,SmartBuy Mouse,Electronics,SmartBuy,9373.53,14931.99
+341,DailyChoice Dry Fruits,Grocery,DailyChoice,858.52,1270.89
+342,SmartBuy Sandals,Fashion,SmartBuy,2517.19,4268.6
+343,HomePlus Tablet,Electronics,HomePlus,23142.59,39595.84
+344,Trendify Smartwatch,Electronics,Trendify,19885.6,34321.95
+345,Nova Watch,Fashion,Nova,2616.93,4105.8
+346,UrbanKart Kurta,Fashion,UrbanKart,2386.52,4030.41
+347,Trendify Perfume,Beauty & Personal Care,Trendify,2450.29,2887.71
+348,SmartBuy Coffee Maker,Home & Kitchen,SmartBuy,2164.53,2856.71
+349,HomePlus Kurta,Fashion,HomePlus,4499.24,6632.98
+350,FitLife Lipstick,Beauty & Personal Care,FitLife,2019.93,2759.06
+351,Trendify Shampoo,Beauty & Personal Care,Trendify,471.11,696.36
+352,SmartBuy Coffee Maker,Home & Kitchen,SmartBuy,7261.52,8937.94
+353,Nova Headphones,Electronics,Nova,34652.5,50303.97
+354,Nova Biscuits,Grocery,Nova,1995.45,2971.16
+355,FreshMart Perfume,Beauty & Personal Care,FreshMart,2682.45,4360.6
+356,SmartBuy Monitor,Electronics,SmartBuy,14577.77,21906.98
+357,Nova Face Serum,Beauty & Personal Care,Nova,2649.18,3379.18
+358,StyleHub Tea,Grocery,StyleHub,853.01,1318.68
+359,SmartBuy Tablet,Electronics,SmartBuy,14432.56,23639.95
+360,StyleHub Air Fryer,Home & Kitchen,StyleHub,11668.13,14711.32
+361,Trendify Headphones,Electronics,Trendify,9168.07,13766.72
+362,DailyChoice Air Fryer,Home & Kitchen,DailyChoice,1080.94,1931.99
+363,Prime Running Shoes,Sports,Prime,3109.98,3682.27
+364,Elite Smartwatch,Electronics,Elite,11848.44,14369.34
+365,Nova Water Bottle,Home & Kitchen,Nova,9496.96,12643.56
+366,Nova Jeans,Fashion,Nova,6252.06,7856.15
+367,FitLife Cricket Bat,Sports,FitLife,4001.73,6853.94
+368,Nova History Book,Books,Nova,778.1,1124.65
+369,Nova T-Shirt,Fashion,Nova,4774.11,5665.18
+370,SmartBuy Water Bottle,Home & Kitchen,SmartBuy,3516.97,6008.39
+371,DailyChoice Dry Fruits,Grocery,DailyChoice,1199.29,1584.53
+372,Nova Saree,Fashion,Nova,2395.68,3244.71
+373,UrbanKart Sandals,Fashion,UrbanKart,2537.34,3558.92
+374,FitLife Badminton Racket,Sports,FitLife,8012.33,9645.42
+375,StyleHub Atta,Grocery,StyleHub,2226.26,2721.62
+376,UrbanKart Air Fryer,Home & Kitchen,UrbanKart,9602.96,14783.92
+377,Elite Lamp,Home & Kitchen,Elite,4760.86,6508.91
+378,SmartBuy Running Shoes,Sports,SmartBuy,6628.09,11537.72
+379,FreshMart Face Wash,Beauty & Personal Care,FreshMart,1629.51,2176.62
+380,HomePlus Business Book,Books,HomePlus,1113.37,1726.43
+381,FitLife Rice,Grocery,FitLife,1309.89,1641.05
+382,SmartBuy Moisturizer,Beauty & Personal Care,SmartBuy,978.5,1254.33
+383,FreshMart Keyboard,Electronics,FreshMart,37997.77,45093.27
+384,DailyChoice Dumbbells,Sports,DailyChoice,5447.75,7831.18
+385,UrbanKart Moisturizer,Beauty & Personal Care,UrbanKart,980.31,1328.09
+386,SmartBuy Self Help Book,Books,SmartBuy,285.21,450.35
+387,StyleHub Face Serum,Beauty & Personal Care,StyleHub,2153.29,3172.77
+388,FreshMart Cooking Oil,Grocery,FreshMart,1207.13,1452.2
+389,FitLife Mixer Grinder,Home & Kitchen,FitLife,2960.33,5122.22
+390,StyleHub Body Lotion,Beauty & Personal Care,StyleHub,1962.53,2647.83
+391,DailyChoice Kurta,Fashion,DailyChoice,291.22,382.28
+392,TechPro Storage Box,Home & Kitchen,TechPro,4073.46,7096.99
+393,UrbanKart Yoga Mat,Sports,UrbanKart,5773.86,9898.44
+394,StyleHub Hair Dryer,Beauty & Personal Care,StyleHub,2472.85,3294.96
+395,FitLife Kurta,Fashion,FitLife,1140.0,1404.0
+396,StyleHub Children Book,Books,StyleHub,622.16,791.54
+397,TechPro Smartphone,Electronics,TechPro,19106.6,31055.85
+398,TechPro Running Shoes,Sports,TechPro,5174.11,6803.46
+399,Nova Face Serum,Beauty & Personal Care,Nova,2226.09,2810.8
+400,StyleHub Atta,Grocery,StyleHub,1745.47,2344.18
+401,Trendify Biscuits,Grocery,Trendify,127.9,188.62
+402,SmartBuy Air Fryer,Home & Kitchen,SmartBuy,1053.05,1287.53
+403,Trendify Bluetooth Speaker,Electronics,Trendify,10536.7,12819.23
+404,Trendify Business Book,Books,Trendify,1348.15,1657.94
+405,Prime Shampoo,Beauty & Personal Care,Prime,826.21,1262.71
+406,FreshMart Cooking Oil,Grocery,FreshMart,1702.61,2903.5
+407,Elite Self Help Book,Books,Elite,764.25,1103.27
+408,HomePlus Cricket Bat,Sports,HomePlus,2917.65,4680.5
+409,Trendify Coffee,Grocery,Trendify,649.12,798.4
+410,UrbanKart Children Book,Books,UrbanKart,900.6,1113.79
+411,DailyChoice Lipstick,Beauty & Personal Care,DailyChoice,2666.38,4498.64
+412,HomePlus Bedsheet,Home & Kitchen,HomePlus,775.16,1019.51
+413,DailyChoice Moisturizer,Beauty & Personal Care,DailyChoice,1422.0,2206.09
+414,Elite Dining Set,Home & Kitchen,Elite,4442.66,7871.91
+415,Elite Badminton Racket,Sports,Elite,6829.9,9352.13
+416,FitLife Lamp,Home & Kitchen,FitLife,8059.08,11450.2
+417,Nova Jeans,Fashion,Nova,4549.57,6618.75
+418,DailyChoice Perfume,Beauty & Personal Care,DailyChoice,2016.16,2392.7
+419,SmartBuy Mixer Grinder,Home & Kitchen,SmartBuy,4834.24,6187.21
+420,Nova Mouse,Electronics,Nova,27126.74,41493.13
+421,FitLife Biscuits,Grocery,FitLife,1781.15,2728.46
+422,Prime Storage Box,Home & Kitchen,Prime,2643.2,4077.23
+423,HomePlus Tablet,Electronics,HomePlus,45831.01,54490.03
+424,FreshMart Hair Dryer,Beauty & Personal Care,FreshMart,568.61,798.65
+425,Trendify Power Bank,Electronics,Trendify,51695.69,69841.67
+426,SmartBuy Novel,Books,SmartBuy,1374.16,1878.57
+427,SmartBuy Kurta,Fashion,SmartBuy,2998.29,4178.29
+428,FitLife Bedsheet,Home & Kitchen,FitLife,268.4,485.99
+429,FreshMart Keyboard,Electronics,FreshMart,64377.31,76477.48
+430,Elite Skipping Rope,Sports,Elite,8685.44,10833.22
+431,StyleHub Biscuits,Grocery,StyleHub,45.22,60.74
+432,Nova Tennis Ball,Sports,Nova,2083.95,3121.15
+433,Trendify Running Shoes,Sports,Trendify,9076.48,10741.8
+434,Nova Spices,Grocery,Nova,547.5,887.25
+435,Elite Tennis Ball,Sports,Elite,701.49,985.24
+436,TechPro Finance Book,Books,TechPro,822.38,1052.86
+437,Trendify Shoes,Fashion,Trendify,4147.58,5674.17
+438,FreshMart Skipping Rope,Sports,FreshMart,6230.87,7355.81
+439,Elite Smartwatch,Electronics,Elite,8581.91,11662.4
+440,Prime Kurta,Fashion,Prime,305.35,533.71
+441,UrbanKart Laptop,Electronics,UrbanKart,30420.4,53328.08
+442,FitLife Skipping Rope,Sports,FitLife,5030.59,7846.91
+443,DailyChoice Watch,Fashion,DailyChoice,1106.07,1886.52
+444,Trendify Lipstick,Beauty & Personal Care,Trendify,1634.63,2036.95
+445,SmartBuy Sandals,Fashion,SmartBuy,2716.07,3725.03
+446,Prime Monitor,Electronics,Prime,7808.45,12165.62
+447,HomePlus Watch,Fashion,HomePlus,1302.35,1537.51
+448,Elite Running Shoes,Sports,Elite,2068.36,3135.66
+449,Trendify Perfume,Beauty & Personal Care,Trendify,2577.05,4429.65
+450,Nova Badminton Racket,Sports,Nova,3189.02,4747.13
+451,Elite Biscuits,Grocery,Elite,1136.13,1626.83
+452,Nova Exam Preparation Book,Books,Nova,1129.21,1434.15
+453,TechPro Programming Book,Books,TechPro,1500.68,2445.96
+454,Prime Sandals,Fashion,Prime,3166.92,4566.48
+455,SmartBuy Finance Book,Books,SmartBuy,909.39,1310.9
+456,SmartBuy Rice,Grocery,SmartBuy,882.09,1349.21
+457,FreshMart Atta,Grocery,FreshMart,1951.67,2543.92
+458,Prime Cricket Bat,Sports,Prime,4375.65,5589.03
+459,HomePlus Spices,Grocery,HomePlus,184.08,232.03
+460,HomePlus History Book,Books,HomePlus,603.32,844.46
+461,UrbanKart Novel,Books,UrbanKart,1133.8,1659.95
+462,Prime Snacks,Grocery,Prime,1175.31,2055.61
+463,FitLife Body Lotion,Beauty & Personal Care,FitLife,1989.82,3363.75
+464,StyleHub Coffee,Grocery,StyleHub,1164.04,1928.93
+465,FitLife Sunscreen,Beauty & Personal Care,FitLife,3165.29,4470.77
+466,UrbanKart Running Shoes,Sports,UrbanKart,9374.57,11108.62
+467,TechPro Atta,Grocery,TechPro,631.59,789.61
+468,DailyChoice Cricket Bat,Sports,DailyChoice,5844.78,7253.83
+469,HomePlus Lipstick,Beauty & Personal Care,HomePlus,3589.57,4840.53
+470,TechPro Monitor,Electronics,TechPro,17514.12,25963.56
+471,Prime Biography,Books,Prime,1334.16,2122.01
+472,FitLife Hair Dryer,Beauty & Personal Care,FitLife,2802.43,3608.32
+473,FitLife Laptop,Electronics,FitLife,47653.19,60393.57
+474,UrbanKart Lamp,Home & Kitchen,UrbanKart,3644.96,5054.71
+475,SmartBuy Biscuits,Grocery,SmartBuy,306.88,517.12
+476,Elite Face Serum,Beauty & Personal Care,Elite,266.4,346.87
+477,Elite Cookware Set,Home & Kitchen,Elite,1258.75,1950.91
+478,UrbanKart Cereals,Grocery,UrbanKart,992.78,1706.01
+479,SmartBuy Kurta,Fashion,SmartBuy,1340.86,1988.78
+480,FreshMart Tennis Ball,Sports,FreshMart,1500.45,2176.33
+481,StyleHub Laptop,Electronics,StyleHub,29684.69,49279.03
+482,StyleHub Running Shoes,Sports,StyleHub,4560.21,7420.66
+483,DailyChoice Atta,Grocery,DailyChoice,1011.33,1731.42
+484,Trendify Business Book,Books,Trendify,219.76,341.63
+485,Nova Biscuits,Grocery,Nova,1550.38,1959.24
+486,TechPro Headphones,Electronics,TechPro,9802.34,15865.79
+487,FreshMart Bluetooth Speaker,Electronics,FreshMart,26762.25,48119.81
+488,Nova Snacks,Grocery,Nova,915.44,1408.82
+489,UrbanKart Storage Box,Home & Kitchen,UrbanKart,5378.85,9531.84
+490,Prime Lamp,Home & Kitchen,Prime,6701.88,9475.52
+491,UrbanKart Science Book,Books,UrbanKart,571.27,990.02
+492,TechPro Coffee,Grocery,TechPro,200.84,293.15
+493,TechPro Badminton Racket,Sports,TechPro,4992.2,8222.24
+494,StyleHub Curtains,Home & Kitchen,StyleHub,12256.4,14727.6
+495,Elite Cycling Helmet,Sports,Elite,7977.11,11184.27
+496,Nova Badminton Racket,Sports,Nova,1279.48,1928.12
+497,Elite Science Book,Books,Elite,1387.48,2346.3
+498,TechPro Programming Book,Books,TechPro,844.07,1143.62
+499,StyleHub Moisturizer,Beauty & Personal Care,StyleHub,1852.32,2851.57
+500,Prime Jacket,Fashion,Prime,2413.04,3328.53
+501,FitLife T-Shirt,Fashion,FitLife,2057.18,3653.56
+502,FitLife Kurta,Fashion,FitLife,438.49,752.0
+503,FitLife Rice,Grocery,FitLife,419.33,593.49
+504,Nova Lipstick,Beauty & Personal Care,Nova,3888.14,4706.54
+505,Elite Self Help Book,Books,Elite,253.76,435.43
+506,DailyChoice Mixer Grinder,Home & Kitchen,DailyChoice,10283.65,12442.1
+507,FreshMart Cookware Set,Home & Kitchen,FreshMart,4179.11,6926.38
+508,FreshMart Yoga Mat,Sports,FreshMart,4664.96,6835.14
+509,UrbanKart Mixer Grinder,Home & Kitchen,UrbanKart,4067.88,6230.5
+510,SmartBuy T-Shirt,Fashion,SmartBuy,1158.99,1855.89
+511,FitLife Cycling Helmet,Sports,FitLife,300.77,375.0
+512,Prime Mixer Grinder,Home & Kitchen,Prime,8322.67,12937.48
+513,Nova Rice,Grocery,Nova,821.47,1486.28
+514,DailyChoice Cooking Oil,Grocery,DailyChoice,784.3,1207.66
+515,Prime Backpack,Fashion,Prime,2463.75,3588.16
+516,Trendify Jacket,Fashion,Trendify,3995.12,5175.89
+517,FreshMart Coffee,Grocery,FreshMart,1704.5,2355.72
+518,DailyChoice Lipstick,Beauty & Personal Care,DailyChoice,424.36,739.43
+519,FreshMart Kurta,Fashion,FreshMart,4239.61,7661.71
+520,HomePlus Business Book,Books,HomePlus,764.62,1027.33
+521,FreshMart Coffee Maker,Home & Kitchen,FreshMart,7541.64,10110.07
+522,Trendify Cycling Helmet,Sports,Trendify,7497.81,9708.21
+523,StyleHub Tea,Grocery,StyleHub,693.58,999.32
+524,Nova Curtains,Home & Kitchen,Nova,5100.88,6422.73
+525,Elite Biscuits,Grocery,Elite,990.75,1292.92
+526,UrbanKart Body Lotion,Beauty & Personal Care,UrbanKart,713.28,972.89
+527,UrbanKart Trimmer,Beauty & Personal Care,UrbanKart,1750.09,3046.76
+528,UrbanKart Yoga Mat,Sports,UrbanKart,4054.25,5812.33
+529,Elite Hair Dryer,Beauty & Personal Care,Elite,882.76,1069.91
+530,DailyChoice Rice,Grocery,DailyChoice,1764.48,2363.85
+531,SmartBuy History Book,Books,SmartBuy,1538.87,2460.51
+532,Trendify Spices,Grocery,Trendify,643.89,1145.56
+533,UrbanKart Keyboard,Electronics,UrbanKart,420.35,672.7
+534,FitLife Tennis Ball,Sports,FitLife,2929.09,4904.69
+535,DailyChoice Power Bank,Electronics,DailyChoice,29746.46,44108.18
+536,Nova Body Lotion,Beauty & Personal Care,Nova,672.62,869.56
+537,Nova Cookware Set,Home & Kitchen,Nova,6237.89,9336.77
+538,UrbanKart Tennis Ball,Sports,UrbanKart,456.55,545.47
+539,Trendify Handbag,Fashion,Trendify,229.22,356.43
+540,Elite Spices,Grocery,Elite,1471.14,2126.25
+541,UrbanKart Yoga Mat,Sports,UrbanKart,3061.5,4331.86
+542,UrbanKart Finance Book,Books,UrbanKart,275.87,420.54
+543,HomePlus Backpack,Fashion,HomePlus,967.07,1177.81
+544,Elite Backpack,Fashion,Elite,2426.44,3694.99
+545,Elite Trimmer,Beauty & Personal Care,Elite,725.58,1205.55
+546,FitLife Face Serum,Beauty & Personal Care,FitLife,1038.89,1369.66
+547,Trendify Cookware Set,Home & Kitchen,Trendify,4793.68,8290.76
+548,HomePlus Storage Box,Home & Kitchen,HomePlus,6547.72,8526.71
+549,Trendify Tablet,Electronics,Trendify,6470.1,7978.67
+550,FreshMart Cycling Helmet,Sports,FreshMart,7185.09,8584.17
+551,TechPro Body Lotion,Beauty & Personal Care,TechPro,1431.57,2076.61
+552,DailyChoice Power Bank,Electronics,DailyChoice,32724.51,52807.83
+553,HomePlus Children Book,Books,HomePlus,152.55,183.3
+554,FitLife Self Help Book,Books,FitLife,855.59,1119.81
+555,TechPro Moisturizer,Beauty & Personal Care,TechPro,2180.22,3482.18
+556,Elite History Book,Books,Elite,1096.91,1332.57
+557,SmartBuy Skipping Rope,Sports,SmartBuy,6507.98,11410.49
+558,Trendify Bedsheet,Home & Kitchen,Trendify,229.64,384.11
+559,Trendify Watch,Fashion,Trendify,3089.95,5189.48
+560,HomePlus Hair Dryer,Beauty & Personal Care,HomePlus,538.84,676.55
+561,TechPro Keyboard,Electronics,TechPro,3056.26,3630.88
+562,Prime Children Book,Books,Prime,667.77,1001.33
+563,DailyChoice Self Help Book,Books,DailyChoice,1433.56,1715.26
+564,FitLife Face Serum,Beauty & Personal Care,FitLife,2786.54,3964.11
+565,Elite Mixer Grinder,Home & Kitchen,Elite,5204.77,6156.58
+566,FreshMart Dining Set,Home & Kitchen,FreshMart,1787.32,2757.28
+567,FitLife Water Bottle,Home & Kitchen,FitLife,6496.94,9482.42
+568,StyleHub Headphones,Electronics,StyleHub,48504.8,71664.08
+569,FreshMart Moisturizer,Beauty & Personal Care,FreshMart,629.64,886.4
+570,FitLife Self Help Book,Books,FitLife,789.94,1141.56
+571,Elite Power Bank,Electronics,Elite,39199.4,55250.28
+572,TechPro Tennis Ball,Sports,TechPro,7602.41,9683.08
+573,FitLife Laptop,Electronics,FitLife,39345.14,51588.35
+574,UrbanKart Face Serum,Beauty & Personal Care,UrbanKart,1116.49,1835.77
+575,SmartBuy Finance Book,Books,SmartBuy,705.2,1115.75
+576,HomePlus Science Book,Books,HomePlus,96.33,162.36
+577,DailyChoice Finance Book,Books,DailyChoice,853.87,1463.71
+578,FreshMart Dry Fruits,Grocery,FreshMart,1640.21,2340.51
+579,FitLife Curtains,Home & Kitchen,FitLife,5418.74,8852.56
+580,Elite Cycling Helmet,Sports,Elite,1753.11,2215.29
+581,Nova Keyboard,Electronics,Nova,12263.01,15337.05
+582,FitLife Kurta,Fashion,FitLife,3453.58,4775.66
+583,StyleHub Coffee,Grocery,StyleHub,1420.22,1965.3
+584,HomePlus Jacket,Fashion,HomePlus,5672.8,7010.11
+585,DailyChoice Kurta,Fashion,DailyChoice,1303.11,1707.77
+586,StyleHub Science Book,Books,StyleHub,322.62,442.86
+587,StyleHub Shoes,Fashion,StyleHub,1291.83,1880.77
+588,UrbanKart Curtains,Home & Kitchen,UrbanKart,2276.51,3209.94
+589,StyleHub Coffee,Grocery,StyleHub,583.64,907.45
+590,DailyChoice Smartwatch,Electronics,DailyChoice,23414.1,34219.32
+591,Trendify Hair Dryer,Beauty & Personal Care,Trendify,1464.2,2660.7
+592,StyleHub Sunscreen,Beauty & Personal Care,StyleHub,938.7,1687.91
+593,Prime Novel,Books,Prime,824.67,1483.65
+594,Nova Rice,Grocery,Nova,1728.68,2108.28
+595,TechPro History Book,Books,TechPro,230.16,308.08
+596,DailyChoice Jeans,Fashion,DailyChoice,4353.09,5759.35
+597,SmartBuy Finance Book,Books,SmartBuy,857.86,1087.08
+598,Nova Lipstick,Beauty & Personal Care,Nova,2552.92,3646.68
+599,UrbanKart Biography,Books,UrbanKart,492.61,744.55
+600,Trendify Rice,Grocery,Trendify,342.45,452.66
+601,Prime Business Book,Books,Prime,510.85,729.54
+602,DailyChoice Snacks,Grocery,DailyChoice,359.91,425.48
+603,Prime Power Bank,Electronics,Prime,55544.27,78184.76
+604,DailyChoice Bedsheet,Home & Kitchen,DailyChoice,3083.08,4074.01
+605,TechPro Science Book,Books,TechPro,998.23,1405.19
+606,StyleHub Children Book,Books,StyleHub,1246.81,1473.85
+607,UrbanKart Power Bank,Electronics,UrbanKart,4851.87,6678.18
+608,SmartBuy Snacks,Grocery,SmartBuy,1594.09,1881.86
+609,FreshMart Air Fryer,Home & Kitchen,FreshMart,9256.91,14473.56
+610,Elite Saree,Fashion,Elite,2005.21,3271.73
+611,UrbanKart Cookware Set,Home & Kitchen,UrbanKart,1941.87,3035.91
+612,Prime Laptop,Electronics,Prime,2054.44,2466.3
+613,UrbanKart Football,Sports,UrbanKart,4851.63,8490.69
+614,TechPro Running Shoes,Sports,TechPro,2651.45,4201.5
+615,FitLife Keyboard,Electronics,FitLife,9258.79,14572.68
+616,Nova Smartphone,Electronics,Nova,19836.77,25080.29
+617,FitLife Lamp,Home & Kitchen,FitLife,5267.94,8270.08
+618,DailyChoice Bluetooth Speaker,Electronics,DailyChoice,11347.86,14904.84
+619,TechPro Dining Set,Home & Kitchen,TechPro,8617.68,13692.62
+620,FitLife Power Bank,Electronics,FitLife,38427.96,66012.9
+621,Elite Self Help Book,Books,Elite,1212.64,1513.25
+622,HomePlus Water Bottle,Home & Kitchen,HomePlus,4579.45,5433.67
+623,FreshMart Atta,Grocery,FreshMart,444.43,549.23
+624,Trendify Bluetooth Speaker,Electronics,Trendify,4078.35,6034.38
+625,Elite Smartwatch,Electronics,Elite,31185.87,39378.11
+626,Nova Badminton Racket,Sports,Nova,286.72,351.47
+627,SmartBuy Power Bank,Electronics,SmartBuy,8218.21,9682.56
+628,FreshMart Shampoo,Beauty & Personal Care,FreshMart,2123.56,3628.16
+629,SmartBuy Skipping Rope,Sports,SmartBuy,6422.58,8950.0
+630,SmartBuy Laptop,Electronics,SmartBuy,9347.2,15397.55
+631,FitLife Football,Sports,FitLife,2197.62,3617.83
+632,Elite Mixer Grinder,Home & Kitchen,Elite,5025.82,7655.46
+633,Nova Biscuits,Grocery,Nova,1985.23,2961.35
+634,UrbanKart Handbag,Fashion,UrbanKart,981.67,1285.18
+635,Trendify Bedsheet,Home & Kitchen,Trendify,10815.12,13425.9
+636,Nova Bluetooth Speaker,Electronics,Nova,41128.85,66380.36
+637,Trendify Cricket Bat,Sports,Trendify,3369.69,5140.41
+638,SmartBuy Skipping Rope,Sports,SmartBuy,3890.28,6847.67
+639,StyleHub Science Book,Books,StyleHub,573.15,722.28
+640,Trendify Smartphone,Electronics,Trendify,27417.77,34091.6
+641,FreshMart Tennis Ball,Sports,FreshMart,5350.89,7106.94
+642,FreshMart Skipping Rope,Sports,FreshMart,304.54,531.14
+643,StyleHub Atta,Grocery,StyleHub,288.02,441.45
+644,SmartBuy Exam Preparation Book,Books,SmartBuy,1499.75,2157.68
+645,StyleHub Mouse,Electronics,StyleHub,20187.7,32231.0
+646,UrbanKart Monitor,Electronics,UrbanKart,60398.47,76592.09
+647,FitLife Monitor,Electronics,FitLife,5832.46,9015.65
+648,Trendify Mouse,Electronics,Trendify,48429.42,77619.28
+649,Prime Coffee,Grocery,Prime,342.11,446.67
+650,Prime Tennis Ball,Sports,Prime,2732.33,4020.04
+651,Trendify Lipstick,Beauty & Personal Care,Trendify,592.32,969.57
+652,StyleHub Bedsheet,Home & Kitchen,StyleHub,10401.89,14488.21
+653,SmartBuy Skipping Rope,Sports,SmartBuy,1974.53,2997.94
+654,DailyChoice Coffee,Grocery,DailyChoice,1916.91,2710.69
+655,SmartBuy Biography,Books,SmartBuy,993.36,1249.62
+656,Trendify Watch,Fashion,Trendify,1758.52,2603.47
+657,TechPro Mouse,Electronics,TechPro,38842.51,67925.22
+658,UrbanKart Face Wash,Beauty & Personal Care,UrbanKart,739.3,1021.89
+659,UrbanKart Face Wash,Beauty & Personal Care,UrbanKart,461.37,590.65
+660,Elite Headphones,Electronics,Elite,22155.21,35455.03
+661,UrbanKart Finance Book,Books,UrbanKart,1782.49,2295.51
+662,SmartBuy Football,Sports,SmartBuy,545.22,874.34
+663,Prime Moisturizer,Beauty & Personal Care,Prime,788.33,1336.77
+664,StyleHub Mixer Grinder,Home & Kitchen,StyleHub,5084.57,6995.84
+665,StyleHub Spices,Grocery,StyleHub,1634.3,2923.01
+666,SmartBuy Dining Set,Home & Kitchen,SmartBuy,8693.03,14739.07
+667,SmartBuy Cycling Helmet,Sports,SmartBuy,7215.39,10362.09
+668,DailyChoice Cereals,Grocery,DailyChoice,2088.61,2978.41
+669,DailyChoice Face Wash,Beauty & Personal Care,DailyChoice,2420.94,3298.47
+670,TechPro Dumbbells,Sports,TechPro,4767.13,7788.53
+671,FitLife Headphones,Electronics,FitLife,47142.11,72318.14
+672,Trendify Spices,Grocery,Trendify,36.78,61.67
+673,TechPro Cooking Oil,Grocery,TechPro,1545.34,2356.72
+674,Prime T-Shirt,Fashion,Prime,2690.31,3460.07
+675,Trendify Jeans,Fashion,Trendify,2550.59,3671.21
+676,Nova Kurta,Fashion,Nova,4160.83,5211.39
+677,Prime Backpack,Fashion,Prime,4363.4,5565.32
+678,SmartBuy Headphones,Electronics,SmartBuy,17534.36,25245.26
+679,Nova Mouse,Electronics,Nova,34615.89,41915.73
+680,UrbanKart Mouse,Electronics,UrbanKart,40743.94,73980.34
+681,Elite Curtains,Home & Kitchen,Elite,4167.14,7480.81
+682,StyleHub Watch,Fashion,StyleHub,1951.99,2458.86
+683,FreshMart Bedsheet,Home & Kitchen,FreshMart,4140.46,6082.18
+684,StyleHub Shampoo,Beauty & Personal Care,StyleHub,1362.97,1769.15
+685,Nova Kurta,Fashion,Nova,352.06,587.93
+686,Prime Jeans,Fashion,Prime,2856.03,3459.58
+687,DailyChoice Jeans,Fashion,DailyChoice,1074.81,1288.55
+688,SmartBuy Shampoo,Beauty & Personal Care,SmartBuy,2554.56,4535.69
+689,DailyChoice Keyboard,Electronics,DailyChoice,33588.25,53090.97
+690,DailyChoice Exam Preparation Book,Books,DailyChoice,659.8,1112.54
+691,Nova Hair Dryer,Beauty & Personal Care,Nova,2459.71,3162.86
+692,SmartBuy Bedsheet,Home & Kitchen,SmartBuy,10653.28,13052.72
+693,SmartBuy Body Lotion,Beauty & Personal Care,SmartBuy,2873.83,4617.63
+694,DailyChoice Tennis Ball,Sports,DailyChoice,6744.86,10207.24
+695,Prime Children Book,Books,Prime,1767.01,2175.53
+696,Trendify Kurta,Fashion,Trendify,3939.41,6849.59
+697,SmartBuy Water Bottle,Home & Kitchen,SmartBuy,1924.71,2975.22
+698,FitLife Biscuits,Grocery,FitLife,369.96,595.93
+699,Prime Dry Fruits,Grocery,Prime,1458.95,2102.33
+700,UrbanKart Face Serum,Beauty & Personal Care,UrbanKart,2098.74,2859.63
+701,HomePlus Smartwatch,Electronics,HomePlus,28680.87,40096.08
+702,FitLife Bluetooth Speaker,Electronics,FitLife,40150.42,62004.27
+703,TechPro History Book,Books,TechPro,207.77,324.23
+704,SmartBuy Sandals,Fashion,SmartBuy,5320.18,7325.92
+705,Elite Monitor,Electronics,Elite,28712.33,40550.61
+706,Prime Trimmer,Beauty & Personal Care,Prime,1170.84,1671.0
+707,DailyChoice Mixer Grinder,Home & Kitchen,DailyChoice,1895.72,3340.64
+708,TechPro Shampoo,Beauty & Personal Care,TechPro,2297.83,3336.63
+709,Nova Yoga Mat,Sports,Nova,5150.42,7617.66
+710,SmartBuy Yoga Mat,Sports,SmartBuy,4273.16,6346.52
+711,Nova Power Bank,Electronics,Nova,19823.79,25255.77
+712,UrbanKart Curtains,Home & Kitchen,UrbanKart,431.09,656.53
+713,TechPro Self Help Book,Books,TechPro,1219.89,1674.26
+714,FitLife Water Bottle,Home & Kitchen,FitLife,816.2,1337.29
+715,TechPro Rice,Grocery,TechPro,242.16,287.73
+716,Prime Curtains,Home & Kitchen,Prime,1354.86,2035.78
+717,Nova Dry Fruits,Grocery,Nova,1246.28,1630.48
+718,UrbanKart Face Wash,Beauty & Personal Care,UrbanKart,336.8,485.21
+719,TechPro T-Shirt,Fashion,TechPro,6230.98,7986.42
+720,StyleHub Running Shoes,Sports,StyleHub,2624.54,3744.62
+721,FreshMart Business Book,Books,FreshMart,303.67,459.94
+722,Trendify Sports Bag,Sports,Trendify,3353.77,5353.66
+723,StyleHub Lipstick,Beauty & Personal Care,StyleHub,1565.94,1992.65
+724,StyleHub Kurta,Fashion,StyleHub,3538.98,4515.45
+725,UrbanKart Sunscreen,Beauty & Personal Care,UrbanKart,391.66,615.23
+726,Trendify Handbag,Fashion,Trendify,3866.83,5346.92
+727,Nova Sports Bag,Sports,Nova,902.96,1632.86
+728,Nova Cycling Helmet,Sports,Nova,7033.72,9078.08
+729,UrbanKart Dining Set,Home & Kitchen,UrbanKart,9273.35,13160.0
+730,DailyChoice Cricket Bat,Sports,DailyChoice,8455.19,10018.5
+731,TechPro Tablet,Electronics,TechPro,4178.33,6811.71
+732,DailyChoice Jacket,Fashion,DailyChoice,3822.73,6769.44
+733,Elite Tea,Grocery,Elite,1560.57,2024.19
+734,Nova Bluetooth Speaker,Electronics,Nova,23830.46,31553.64
+735,SmartBuy Jeans,Fashion,SmartBuy,2348.22,3423.75
+736,DailyChoice Jeans,Fashion,DailyChoice,4308.37,6463.32
+737,SmartBuy Smartphone,Electronics,SmartBuy,20628.37,27443.06
+738,Prime Skipping Rope,Sports,Prime,2146.59,2838.8
+739,SmartBuy Bedsheet,Home & Kitchen,SmartBuy,5012.32,8831.8
+740,Prime Lamp,Home & Kitchen,Prime,2208.67,3664.27
+741,UrbanKart Backpack,Fashion,UrbanKart,1983.18,3356.2
+742,DailyChoice Perfume,Beauty & Personal Care,DailyChoice,3902.19,4758.82
+743,UrbanKart Trimmer,Beauty & Personal Care,UrbanKart,818.54,1069.86
+744,Prime Self Help Book,Books,Prime,680.31,1143.9
+745,DailyChoice Dining Set,Home & Kitchen,DailyChoice,9709.08,13370.57
+746,DailyChoice Laptop,Electronics,DailyChoice,43900.82,52222.83
+747,Trendify Skipping Rope,Sports,Trendify,4866.14,6241.32
+748,Elite Bedsheet,Home & Kitchen,Elite,3889.74,4853.25
+749,DailyChoice Watch,Fashion,DailyChoice,5022.29,7517.49
+750,SmartBuy Bluetooth Speaker,Electronics,SmartBuy,25277.84,42643.76
+751,Prime Yoga Mat,Sports,Prime,6928.94,8448.95
+752,TechPro Dry Fruits,Grocery,TechPro,978.6,1355.76
+753,Nova Jacket,Fashion,Nova,2998.27,4457.2
+754,FreshMart Science Book,Books,FreshMart,1076.33,1924.19
+755,Elite Science Book,Books,Elite,1123.6,1492.34
+756,SmartBuy Moisturizer,Beauty & Personal Care,SmartBuy,2351.87,2976.28
+757,Nova Perfume,Beauty & Personal Care,Nova,2817.58,3858.0
+758,Elite Shoes,Fashion,Elite,5584.57,7390.0
+759,FreshMart Cereals,Grocery,FreshMart,737.39,934.83
+760,StyleHub Running Shoes,Sports,StyleHub,3267.95,3945.25
+761,SmartBuy Kurta,Fashion,SmartBuy,3277.8,4390.56
+762,FitLife Cycling Helmet,Sports,FitLife,1498.27,2621.02
+763,TechPro Spices,Grocery,TechPro,321.93,421.42
+764,HomePlus Tablet,Electronics,HomePlus,46619.45,75513.84
+765,Prime Moisturizer,Beauty & Personal Care,Prime,3311.41,4207.92
+766,SmartBuy Bluetooth Speaker,Electronics,SmartBuy,8092.29,10481.09
+767,SmartBuy Face Serum,Beauty & Personal Care,SmartBuy,3795.72,4965.61
+768,FreshMart Sunscreen,Beauty & Personal Care,FreshMart,2381.22,2832.16
+769,SmartBuy Coffee,Grocery,SmartBuy,451.2,643.53
+770,HomePlus Novel,Books,HomePlus,1725.95,2432.93
+771,TechPro Shoes,Fashion,TechPro,4713.61,7671.17
+772,FitLife Cooking Oil,Grocery,FitLife,810.68,1338.08
+773,TechPro Air Fryer,Home & Kitchen,TechPro,362.5,460.99
+774,Trendify Dry Fruits,Grocery,Trendify,1386.19,2360.21
+775,TechPro Cereals,Grocery,TechPro,1582.02,2286.06
+776,DailyChoice Perfume,Beauty & Personal Care,DailyChoice,3771.4,4737.96
+777,TechPro Rice,Grocery,TechPro,1485.85,1991.57
+778,FitLife Jeans,Fashion,FitLife,3102.04,4621.92
+779,SmartBuy Cycling Helmet,Sports,SmartBuy,7925.78,9944.35
+780,SmartBuy Keyboard,Electronics,SmartBuy,21326.02,33809.23
+781,StyleHub Biography,Books,StyleHub,580.76,899.94
+782,UrbanKart Face Serum,Beauty & Personal Care,UrbanKart,991.03,1510.65
+783,Prime Mixer Grinder,Home & Kitchen,Prime,4038.87,4756.42
+784,UrbanKart Saree,Fashion,UrbanKart,4484.71,5789.79
+785,DailyChoice T-Shirt,Fashion,DailyChoice,5367.54,6413.82
+786,DailyChoice Jeans,Fashion,DailyChoice,5236.48,6631.3
+787,Trendify Badminton Racket,Sports,Trendify,5923.73,7276.34
+788,HomePlus Mixer Grinder,Home & Kitchen,HomePlus,4225.8,5042.3
+789,Nova Cooking Oil,Grocery,Nova,1464.7,2023.9
+790,SmartBuy Yoga Mat,Sports,SmartBuy,2285.43,2886.23
+791,Elite History Book,Books,Elite,458.56,767.54
+792,HomePlus Hair Dryer,Beauty & Personal Care,HomePlus,2767.88,3830.73
+793,Nova Curtains,Home & Kitchen,Nova,8447.23,11354.51
+794,UrbanKart Shampoo,Beauty & Personal Care,UrbanKart,2504.17,4540.64
+795,UrbanKart Water Bottle,Home & Kitchen,UrbanKart,10391.87,13907.94
+796,SmartBuy Sunscreen,Beauty & Personal Care,SmartBuy,867.94,1536.9
+797,FitLife Tea,Grocery,FitLife,669.94,1147.15
+798,HomePlus Rice,Grocery,HomePlus,598.09,793.72
+799,TechPro Self Help Book,Books,TechPro,1253.87,2233.07
+800,HomePlus Finance Book,Books,HomePlus,397.65,685.37
+801,DailyChoice Novel,Books,DailyChoice,203.48,243.03
+802,FitLife Bluetooth Speaker,Electronics,FitLife,42055.61,74914.62
+803,Prime Football,Sports,Prime,1133.37,1961.48
+804,FitLife Mouse,Electronics,FitLife,8436.2,14774.89
+805,StyleHub Spices,Grocery,StyleHub,2095.6,2585.57
+806,DailyChoice Power Bank,Electronics,DailyChoice,44467.4,57212.95
+807,StyleHub Shoes,Fashion,StyleHub,3440.59,5796.94
+808,Elite Mixer Grinder,Home & Kitchen,Elite,7997.58,12431.96
+809,FreshMart Mixer Grinder,Home & Kitchen,FreshMart,3545.42,6027.24
+810,Trendify Face Wash,Beauty & Personal Care,Trendify,1464.08,1729.24
+811,FreshMart Sandals,Fashion,FreshMart,3230.2,4036.59
+812,Elite Air Fryer,Home & Kitchen,Elite,4563.23,6825.95
+813,TechPro Yoga Mat,Sports,TechPro,8733.81,10743.67
+814,StyleHub Jacket,Fashion,StyleHub,521.02,801.14
+815,UrbanKart Finance Book,Books,UrbanKart,335.96,566.93
+816,Trendify Skipping Rope,Sports,Trendify,5777.32,7845.91
+817,DailyChoice Perfume,Beauty & Personal Care,DailyChoice,592.16,975.81
+818,FitLife Biography,Books,FitLife,1134.18,1517.41
+819,SmartBuy Handbag,Fashion,SmartBuy,5837.14,7821.9
+820,Nova Keyboard,Electronics,Nova,32241.87,51009.9
+821,TechPro Cricket Bat,Sports,TechPro,5379.7,6908.43
+822,TechPro Hair Dryer,Beauty & Personal Care,TechPro,1351.99,2415.02
+823,Nova Laptop,Electronics,Nova,50150.88,60226.86
+824,FitLife Trimmer,Beauty & Personal Care,FitLife,1843.43,2405.3
+825,TechPro Jeans,Fashion,TechPro,4486.92,6701.25
+826,SmartBuy Sandals,Fashion,SmartBuy,5220.9,7035.45
+827,Elite Snacks,Grocery,Elite,1908.72,2525.4
+828,Trendify Tablet,Electronics,Trendify,33078.91,53364.06
+829,StyleHub Tea,Grocery,StyleHub,1274.93,1573.33
+830,Prime Finance Book,Books,Prime,226.17,330.18
+831,SmartBuy Cricket Bat,Sports,SmartBuy,4039.76,5553.58
+832,DailyChoice Jacket,Fashion,DailyChoice,996.65,1177.5
+833,Prime Cricket Bat,Sports,Prime,6093.04,9455.84
+834,Trendify Saree,Fashion,Trendify,4961.93,6185.83
+835,Prime Jeans,Fashion,Prime,3284.07,5089.05
+836,Elite Jacket,Fashion,Elite,4276.65,6837.94
+837,FitLife T-Shirt,Fashion,FitLife,2211.74,3551.85
+838,DailyChoice Laptop,Electronics,DailyChoice,32173.62,51275.99
+839,DailyChoice Novel,Books,DailyChoice,1242.64,1727.34
+840,Prime Kurta,Fashion,Prime,1261.75,2143.44
+841,Nova Children Book,Books,Nova,858.48,1094.47
+842,DailyChoice Curtains,Home & Kitchen,DailyChoice,2712.49,3526.75
+843,Trendify Air Fryer,Home & Kitchen,Trendify,3830.03,5510.32
+844,FreshMart Watch,Fashion,FreshMart,3588.64,5837.52
+845,HomePlus Curtains,Home & Kitchen,HomePlus,5426.87,9780.77
+846,DailyChoice Dumbbells,Sports,DailyChoice,2755.26,4403.01
+847,TechPro Shoes,Fashion,TechPro,4814.81,7229.75
+848,UrbanKart Air Fryer,Home & Kitchen,UrbanKart,766.52,1004.98
+849,UrbanKart Biscuits,Grocery,UrbanKart,895.43,1277.58
+850,SmartBuy Dining Set,Home & Kitchen,SmartBuy,7549.17,11105.83
+851,Nova Face Serum,Beauty & Personal Care,Nova,1135.7,1461.24
+852,FreshMart Sports Bag,Sports,FreshMart,1857.14,2665.79
+853,Elite Perfume,Beauty & Personal Care,Elite,3603.11,4669.36
+854,TechPro Mixer Grinder,Home & Kitchen,TechPro,1523.47,1892.46
+855,Trendify Biscuits,Grocery,Trendify,843.37,1510.71
+856,StyleHub Biography,Books,StyleHub,609.3,1004.77
+857,TechPro Finance Book,Books,TechPro,1483.83,2202.1
+858,FreshMart Air Fryer,Home & Kitchen,FreshMart,2383.82,3363.27
+859,Prime Dry Fruits,Grocery,Prime,91.56,118.42
+860,DailyChoice Cookware Set,Home & Kitchen,DailyChoice,2244.53,3479.23
+861,StyleHub T-Shirt,Fashion,StyleHub,1721.64,2792.13
+862,Trendify Jeans,Fashion,Trendify,3054.41,5337.02
+863,TechPro Air Fryer,Home & Kitchen,TechPro,1913.68,2880.1
+864,Prime Monitor,Electronics,Prime,4911.44,6898.17
+865,Prime Spices,Grocery,Prime,667.85,808.12
+866,FitLife Cookware Set,Home & Kitchen,FitLife,771.29,1163.19
+867,Nova Face Wash,Beauty & Personal Care,Nova,518.96,917.94
+868,SmartBuy Biography,Books,SmartBuy,215.13,317.23
+869,FreshMart Tea,Grocery,FreshMart,124.51,223.08
+870,HomePlus Bedsheet,Home & Kitchen,HomePlus,7690.12,12178.39
+871,SmartBuy Body Lotion,Beauty & Personal Care,SmartBuy,2052.83,2674.4
+872,FitLife Dumbbells,Sports,FitLife,6722.71,9919.36
+873,FitLife Coffee Maker,Home & Kitchen,FitLife,344.66,603.5
+874,Trendify Children Book,Books,Trendify,690.73,930.75
+875,Prime Atta,Grocery,Prime,441.97,741.41
+876,Prime Backpack,Fashion,Prime,2275.5,3923.42
+877,Prime Yoga Mat,Sports,Prime,4522.13,7024.27
+878,Prime History Book,Books,Prime,93.72,132.49
+879,Nova Dining Set,Home & Kitchen,Nova,8727.61,10849.07
+880,HomePlus Spices,Grocery,HomePlus,1658.27,2401.97
+881,StyleHub Shampoo,Beauty & Personal Care,StyleHub,2670.11,3843.68
+882,Prime Keyboard,Electronics,Prime,16158.49,21635.3
+883,Elite Exam Preparation Book,Books,Elite,311.73,449.61
+884,Prime Finance Book,Books,Prime,255.86,459.77
+885,HomePlus Business Book,Books,HomePlus,1782.61,2327.39
+886,Trendify Water Bottle,Home & Kitchen,Trendify,5390.45,7492.47
+887,SmartBuy Coffee Maker,Home & Kitchen,SmartBuy,4413.4,5297.61
+888,Prime Body Lotion,Beauty & Personal Care,Prime,2564.08,3061.82
+889,SmartBuy Shampoo,Beauty & Personal Care,SmartBuy,1354.1,1928.76
+890,HomePlus Children Book,Books,HomePlus,1049.39,1795.85
+891,FreshMart Yoga Mat,Sports,FreshMart,8705.76,11248.41
+892,UrbanKart Lipstick,Beauty & Personal Care,UrbanKart,3733.82,4797.27
+893,Nova Sandals,Fashion,Nova,343.78,413.66
+894,FitLife Cereals,Grocery,FitLife,1211.54,1954.69
+895,Prime Cookware Set,Home & Kitchen,Prime,2279.69,3841.64
+896,Elite Hair Dryer,Beauty & Personal Care,Elite,409.72,517.08
+897,HomePlus Skipping Rope,Sports,HomePlus,2528.44,4529.99
+898,Prime Business Book,Books,Prime,418.14,604.08
+899,FitLife Programming Book,Books,FitLife,1045.5,1485.59
+900,Nova History Book,Books,Nova,309.84,458.25
+901,FreshMart History Book,Books,FreshMart,1203.42,1704.64
+902,HomePlus Curtains,Home & Kitchen,HomePlus,7177.65,8961.43
+903,FitLife Perfume,Beauty & Personal Care,FitLife,2230.03,3816.48
+904,Elite Sunscreen,Beauty & Personal Care,Elite,807.05,1241.29
+905,StyleHub Cereals,Grocery,StyleHub,1943.6,2696.26
+906,SmartBuy Badminton Racket,Sports,SmartBuy,6833.62,10966.97
+907,TechPro Power Bank,Electronics,TechPro,6545.1,7827.91
+908,FitLife Snacks,Grocery,FitLife,1970.11,2519.45
+909,FreshMart Science Book,Books,FreshMart,859.53,1130.86
+910,DailyChoice Handbag,Fashion,DailyChoice,2217.93,3669.8
+911,SmartBuy Watch,Fashion,SmartBuy,1695.11,2456.21
+912,Nova Monitor,Electronics,Nova,37133.37,56532.38
+913,Nova Mixer Grinder,Home & Kitchen,Nova,299.75,369.76
+914,Nova Running Shoes,Sports,Nova,7672.24,9782.94
+915,FitLife Snacks,Grocery,FitLife,282.38,492.94
+916,SmartBuy Sports Bag,Sports,SmartBuy,3367.26,4165.65
+917,Elite Cookware Set,Home & Kitchen,Elite,3209.18,5335.89
+918,HomePlus Coffee Maker,Home & Kitchen,HomePlus,4379.37,7090.1
+919,UrbanKart Sports Bag,Sports,UrbanKart,3283.17,4749.31
+920,SmartBuy Perfume,Beauty & Personal Care,SmartBuy,1183.6,1547.57
+921,Trendify Business Book,Books,Trendify,926.6,1612.99
+922,FitLife Curtains,Home & Kitchen,FitLife,7067.57,11327.46
+923,StyleHub Rice,Grocery,StyleHub,471.16,612.13
+924,DailyChoice Tea,Grocery,DailyChoice,1389.42,2370.47
+925,Trendify Programming Book,Books,Trendify,1710.77,2223.69
+926,FitLife Rice,Grocery,FitLife,2352.94,2952.46
+927,Trendify Finance Book,Books,Trendify,1603.39,2236.68
+928,Nova Dry Fruits,Grocery,Nova,2302.75,2948.7
+929,TechPro Sandals,Fashion,TechPro,1903.84,2958.79
+930,DailyChoice Mixer Grinder,Home & Kitchen,DailyChoice,3261.37,3923.01
+931,SmartBuy Sports Bag,Sports,SmartBuy,757.92,989.02
+932,FitLife Running Shoes,Sports,FitLife,7454.79,10648.73
+933,SmartBuy Biscuits,Grocery,SmartBuy,1380.53,2485.07
+934,FreshMart Bedsheet,Home & Kitchen,FreshMart,1664.79,2137.22
+935,DailyChoice Tennis Ball,Sports,DailyChoice,6788.78,8464.56
+936,FitLife Body Lotion,Beauty & Personal Care,FitLife,1035.8,1768.16
+937,FreshMart Monitor,Electronics,FreshMart,43137.9,66410.98
+938,FreshMart Dry Fruits,Grocery,FreshMart,2049.25,2464.51
+939,StyleHub Watch,Fashion,StyleHub,5899.4,7207.76
+940,Prime Programming Book,Books,Prime,340.5,460.09
+941,Nova Biscuits,Grocery,Nova,676.47,1063.55
+942,Trendify Cycling Helmet,Sports,Trendify,5604.62,8215.84
+943,FitLife Body Lotion,Beauty & Personal Care,FitLife,3353.15,4654.82
+944,Elite Bluetooth Speaker,Electronics,Elite,33780.47,41195.26
+945,DailyChoice Running Shoes,Sports,DailyChoice,6166.2,10059.3
+946,Elite Spices,Grocery,Elite,83.14,115.88
+947,FreshMart Cooking Oil,Grocery,FreshMart,2002.81,2768.96
+948,StyleHub Air Fryer,Home & Kitchen,StyleHub,4932.17,6632.24
+949,StyleHub Exam Preparation Book,Books,StyleHub,1227.65,1708.76
+950,Prime Science Book,Books,Prime,1625.14,2123.8
+951,FitLife Programming Book,Books,FitLife,268.09,332.91
+952,UrbanKart Rice,Grocery,UrbanKart,1936.59,2816.2
+953,HomePlus Cooking Oil,Grocery,HomePlus,595.9,848.01
+954,Prime Self Help Book,Books,Prime,863.88,1311.82
+955,HomePlus Storage Box,Home & Kitchen,HomePlus,9552.93,11973.86
+956,Elite Skipping Rope,Sports,Elite,4469.82,7111.51
+957,UrbanKart Business Book,Books,UrbanKart,403.74,551.76
+958,FreshMart Football,Sports,FreshMart,1781.04,2202.86
+959,StyleHub Mouse,Electronics,StyleHub,17052.2,23697.0
+960,StyleHub Smartwatch,Electronics,StyleHub,32053.78,49800.16
+961,FitLife Cricket Bat,Sports,FitLife,1214.35,1731.71
+962,UrbanKart History Book,Books,UrbanKart,347.56,529.4
+963,Nova Water Bottle,Home & Kitchen,Nova,1003.57,1672.06
+964,StyleHub Exam Preparation Book,Books,StyleHub,322.89,383.74
+965,Nova Trimmer,Beauty & Personal Care,Nova,840.63,1264.56
+966,UrbanKart Keyboard,Electronics,UrbanKart,39419.75,58679.95
+967,TechPro Cycling Helmet,Sports,TechPro,1442.06,2324.13
+968,FreshMart Cycling Helmet,Sports,FreshMart,4098.45,6227.73
+969,SmartBuy Cooking Oil,Grocery,SmartBuy,876.24,1185.11
+970,FreshMart Cooking Oil,Grocery,FreshMart,2237.02,2645.93
+971,Nova Jacket,Fashion,Nova,2470.67,3880.83
+972,DailyChoice Coffee,Grocery,DailyChoice,2133.36,2762.55
+973,UrbanKart Biscuits,Grocery,UrbanKart,485.12,655.09
+974,FreshMart Atta,Grocery,FreshMart,809.57,1210.25
+975,HomePlus Atta,Grocery,HomePlus,1535.7,2118.9
+976,HomePlus Laptop,Electronics,HomePlus,358.6,620.52
+977,FitLife Tea,Grocery,FitLife,1511.43,2628.31
+978,SmartBuy Novel,Books,SmartBuy,977.15,1173.84
+979,FreshMart Laptop,Electronics,FreshMart,1221.28,1453.16
+980,FitLife Kurta,Fashion,FitLife,444.4,688.27
+981,TechPro Hair Dryer,Beauty & Personal Care,TechPro,3496.67,4325.06
+982,Trendify Sports Bag,Sports,Trendify,808.14,1395.01
+983,FitLife Lipstick,Beauty & Personal Care,FitLife,1104.18,1688.13
+984,HomePlus Yoga Mat,Sports,HomePlus,931.43,1392.92
+985,DailyChoice Headphones,Electronics,DailyChoice,60431.51,78436.74
+986,Nova Bluetooth Speaker,Electronics,Nova,40709.16,54008.51
+987,Prime T-Shirt,Fashion,Prime,4134.0,6588.24
+988,FitLife Biscuits,Grocery,FitLife,528.6,700.42
+989,UrbanKart Hair Dryer,Beauty & Personal Care,UrbanKart,1714.96,2686.37
+990,UrbanKart Programming Book,Books,UrbanKart,1335.03,2192.98
+991,UrbanKart Sandals,Fashion,UrbanKart,464.86,760.59
+992,FreshMart Children Book,Books,FreshMart,666.68,1081.68
+993,StyleHub Atta,Grocery,StyleHub,1299.59,2321.38
+994,TechPro Biography,Books,TechPro,382.53,541.13
+995,SmartBuy Backpack,Fashion,SmartBuy,5234.0,7858.94
+996,TechPro Bluetooth Speaker,Electronics,TechPro,29008.36,41090.08
+997,StyleHub Face Wash,Beauty & Personal Care,StyleHub,3367.95,4619.25
+998,FitLife Water Bottle,Home & Kitchen,FitLife,2309.42,3579.5
+999,FreshMart Football,Sports,FreshMart,7961.63,9738.72
+1000,Elite Novel,Books,Elite,1618.55,2210.9
